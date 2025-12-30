@@ -7,7 +7,7 @@
 
 
 
-- このサイトは [[Takeno\|Takeno]] によって公開されている
-- このサイトのコンテンツは [Obsidian](https://obsidian.md/) で執筆し、全て [Google Drive](https://drive.google.com) に保存されている
-- このサイトの公開は [Digital Garden Plugin](https://github.com/oleeskild/obsidian-digital-garden) を介して [vercel](https://vercel.com) へデプロイし実現している
-- このサイトのドメイン `takeno.tech` は [Cloudflare Registrar](https://www.cloudflare.com)で取得し管理している
+- このサイトは [[Me/Takeno\|Takeno]] によって公開されている
+	- コンテンツは [Obsidian](https://obsidian.md/) で執筆し、 [Google Drive](https://drive.google.com) に保存されている
+	- Webへの公開は [Digital Garden Plugin](https://github.com/oleeskild/obsidian-digital-garden) を介して [vercel](https://vercel.com) へデプロイし実現している
+	- ドメイン `takeno.tech` は [Cloudflare Registrar](https://www.cloudflare.com)で取得し、管理は [Cloudflare](https://www.cloudflare.com) を使用している
