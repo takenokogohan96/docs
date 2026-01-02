@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2026-01-01T23:41:08.725+09:00","updated":"2025-12-30T09:45:24.000+09:00"}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"noteIcon":"","created":"2026-01-01T23:41:08.725+09:00","updated":"2025-12-30T09:45:24.000+09:00"}
 ---
 
 > [!tip] information
