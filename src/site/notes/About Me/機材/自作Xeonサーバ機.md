@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"2UServer-machine","permalink":"/2UServer-machine/","noteIcon":"","created":"2026-01-06T22:47:19.052+09:00","updated":"2026-01-06T22:50:51.836+09:00"}
+{"dg-publish":true,"dg-permalink":"2UServer-machine","permalink":"/2UServer-machine/","created":"2026-01-06T22:47:19.052+09:00","updated":"2026-01-06T22:50:51.836+09:00"}
 ---
 
 ![rm21-308.png](/img/user/img/%E6%A9%9F%E6%9D%90/rm21-308.png)

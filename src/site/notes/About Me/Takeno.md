@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about-me/takeno/","noteIcon":"","created":"2026-01-01T19:13:04.000+09:00","updated":"2026-01-06T22:03:58.902+09:00"}
+{"dg-publish":true,"permalink":"/about-me/takeno/","created":"2026-01-01T19:13:04.000+09:00","updated":"2026-01-07T00:28:40.145+09:00"}
 ---
 
 > [!tip] information
@@ -15,9 +15,10 @@
 
 
 # 趣味
+- 資格取得 (  [[About Me/趣味/保有資格一覧\|保有資格一覧]] )
+- Gran Turismo 7
+- サイクリング - ARAYA Diagonale ( リア13-26T仕様 )
 - 
-- 自作PC
-- モバイル機器/ガジェット
 
 ### 自宅サーバ/NW弄り
 ### カメラ
@@ -26,8 +27,7 @@
 担当は所恵美
 ### Gran Turismo 7
 主なクラスは Gr.3 ~ PP600
-### 資格取得
-### スポルティーフ
+### 
 
 # Link
 ## misskey
