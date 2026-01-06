@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-info/takeno/","created":"2026-01-01T19:13:04.000+09:00","updated":"2026-01-07T01:38:50.761+09:00"}
+{"dg-publish":true,"dg-permalink":"profile","permalink":"/profile/","created":"2026-01-01T19:13:04.000+09:00","updated":"2026-01-07T02:23:06.617+09:00"}
 ---
 
 > [!tip] information

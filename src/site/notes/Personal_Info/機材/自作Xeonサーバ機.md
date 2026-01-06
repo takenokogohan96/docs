@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"2UServer-machine","permalink":"/2UServer-machine/","created":"2026-01-06T22:47:19.052+09:00","updated":"2026-01-07T02:18:09.452+09:00"}
+{"dg-publish":true,"dg-permalink":"xeonServer-machine","permalink":"/xeonServer-machine/","created":"2026-01-06T22:47:19.052+09:00","updated":"2026-01-07T02:22:31.359+09:00"}
 ---
 
 ![rm21-308.png](/img/user/img/Personal_info/rm21-308.png)
