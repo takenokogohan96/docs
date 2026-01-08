@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"profile","permalink":"/profile/","created":"2026-01-01T19:13:04.000+09:00","updated":"2026-01-09T02:10:17.678+09:00"}
+{"dg-publish":true,"dg-permalink":"profile","permalink":"/profile/","created":"2026-01-01T19:13:04.000+09:00","updated":"2026-01-09T02:49:12.630+09:00"}
 ---
 
 本サイトとドメイン `takeno.tech` の持ち主。読み方はそのまま「たけの」
@@ -9,7 +9,7 @@
 - 📜**資格取得** - [[Personal/趣味/取得資格一覧\|取得資格一覧]]
 - 🚲**サイクリング** - [ARAYA Diagonale](https://araya-rinkai.jp/dia.html)
 - ✨**THE IDOLM@STER** - [[Personal/趣味/TakenoP(iM@S)\|TakenoP(iM@S)]]
-- 🎮**Gran Turismo 7** - [[Personal/趣味/GT7 Garage\|GT7 Garage]]
+- 🕹**Gran Turismo 7** - [[Personal/趣味/GT7 Garage\|GT7 Garage]]
 # 外部リンク
 
 - [misskey.io](https://misskey.io/@takenokogohan96) - SNS
