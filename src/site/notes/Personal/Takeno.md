@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"profile","permalink":"/profile/","created":"2026-01-01T19:13:04.000+09:00","updated":"2026-01-13T01:23:34.353+09:00"}
+{"dg-publish":true,"dg-permalink":"profile","permalink":"/profile/","created":"2026-01-13T01:30:08.669+09:00","updated":"2026-01-13T01:23:34.353+09:00"}
 ---
 
 本サイトとドメイン `takeno.tech` の持ち主。読み方はそのまま「たけの」
