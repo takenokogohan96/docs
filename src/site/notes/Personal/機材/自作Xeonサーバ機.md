@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"xeonServer-machine","permalink":"/xeonServer-machine/","created":"2026-01-13T01:30:08.678+09:00","updated":"2026-01-13T01:32:00.484+09:00"}
 ---
 
-![rm21-308.png](/img/user/img/Personal_info/rm21-308.png)
+![rm21-308.png](/img/user/img/Personal/rm21-308.png)
 
 # テーマ
 
