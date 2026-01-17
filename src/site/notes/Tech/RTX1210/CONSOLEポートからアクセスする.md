@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"dg-permalink":"rtx1210-consoleport","permalink":"/rtx1210-consoleport/","created":"2026-01-18T00:10:11.433+09:00","updated":"2026-01-18T00:40:51.674+09:00"}
+{"dg-publish":true,"dg-permalink":"rtx1210-consoleport","permalink":"/rtx1210-consoleport/","created":"2026-01-18T00:10:11.433+09:00","updated":"2026-01-18T00:52:05.519+09:00"}
 ---
 
 
 # 用意するもの
 - Tera Term（[Github](https://github.com/TeraTermProject/teraterm/releases)）
 - RJ-45コンソールケーブル（[YRC-RJ45C](https://network.yamaha.com/products/options/yrc-rj45c/index)）
-- USBシリアル変換ケーブル（今回はFT232Rチップ搭載機を使用した）
+- USBシリアル変換ケーブル（FT232Rチップ搭載機を使用）
 # ケーブルをつなぎ込む
 コンソールケーブルと変換ケーブルで RJ-45⇔USB を作る
 ![console-usbcable.jpg](/img/user/img/Tech/console-usbcable.jpg)
