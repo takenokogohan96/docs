@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"home-network","permalink":"/home-network/","created":"2026-01-18T01:28:47.654+09:00","updated":"2026-01-18T01:58:59.462+09:00"}
+{"dg-publish":true,"dg-permalink":"home-network","permalink":"/home-network/","created":"2026-01-18T01:28:47.654+09:00","updated":"2026-01-18T02:02:56.265+09:00"}
 ---
 
 - 主回線と予備回線の2回線、主回線はIPoEとPPPoE併用運用につき合計3回線
 - YAMAHA RTXシリーズを中心にNW機器はヤマハ製中心
-- 殆ど全てのNW機器とサーバをスチールラックに収容
+- 写真中央は[[Personal/機材/自作Xeonサーバ機\|自作Xeonサーバ機]]、その他殆ど全ての機器をスチールラックに収容
 ![homerack.jpg](/img/user/img/Personal/homerack.jpg)
 
 # 物理構成図
