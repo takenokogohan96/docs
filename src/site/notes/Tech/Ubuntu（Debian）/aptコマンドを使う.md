@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"debian-apt","permalink":"/debian-apt/","created":"2026-01-18T12:06:39.909+09:00","updated":"2026-01-18T12:30:30.527+09:00"}
+{"dg-publish":true,"dg-permalink":"ubuntu-apt","permalink":"/ubuntu-apt/","created":"2026-01-18T12:06:39.909+09:00","updated":"2026-01-18T13:52:52.454+09:00"}
 ---
 
 # パッケージリストを更新する
@@ -27,7 +27,6 @@ apt list --installed
 # 特定のパッケージ名（なければ表示なし。あれば[installed]）
 apt list --installed ｛パッケージ名｝
 ```
-
 # パッケージをアンインストールする
 ```
 sudo apt remove {パッケージ名}
