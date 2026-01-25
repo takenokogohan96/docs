@@ -1,11 +1,8 @@
 ---
-{"dg-publish":true,"dg-permalink":"imas","permalink":"/imas/","created":"2026-01-13T01:30:08.683+09:00","updated":"2026-01-08T22:49:38.008+09:00"}
+{"dg-publish":true,"dg-permalink":"imas","permalink":"/imas/","created":"2026-01-25T15:14:45.462+09:00","updated":"2026-01-25T23:21:02.183+09:00"}
 ---
 
 ![mltd_card.jpg](/img/user/img/Personal/mltd_card.jpg)
-
-担当： **所恵美** (ミリオンライブ!)
-きっかけ：メインコミュ第70話「Dears」 
 # MLTDイベント成績
 
 |        イベント名         |    獲得pt     |  順位   |

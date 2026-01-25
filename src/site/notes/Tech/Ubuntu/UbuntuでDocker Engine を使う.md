@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"ubuntu-docker","permalink":"/ubuntu-docker/","created":"2026-01-18T13:33:05.980+09:00","updated":"2026-01-18T23:43:03.517+09:00"}
+{"dg-publish":true,"dg-permalink":"ubuntu-docker","permalink":"/ubuntu-docker/","created":"2026-01-25T15:14:44.419+09:00","updated":"2026-01-18T23:43:03.517+09:00"}
 ---
 
 基本dockerdocs公式の [Install Docker Engine on Ubuntu](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository) の通り

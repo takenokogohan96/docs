@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home-network","permalink":"/home-network/","created":"2026-01-18T01:28:47.654+09:00","updated":"2026-01-18T02:02:56.265+09:00"}
+{"dg-publish":true,"dg-permalink":"home-network","permalink":"/home-network/","created":"2026-01-25T15:14:46.257+09:00","updated":"2026-01-18T02:02:56.265+09:00"}
 ---
 
 - 主回線と予備回線の2回線、主回線はIPoEとPPPoE併用運用につき合計3回線

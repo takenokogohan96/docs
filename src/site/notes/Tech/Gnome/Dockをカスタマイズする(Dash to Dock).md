@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"gnome-dashtodock","permalink":"/gnome-dashtodock/","created":"2026-01-13T23:06:13.659+09:00","updated":"2026-01-13T23:33:24.137+09:00"}
+{"dg-publish":true,"dg-permalink":"gnome-dashtodock","permalink":"/gnome-dashtodock/","created":"2026-01-25T15:14:45.640+09:00","updated":"2026-01-13T23:33:24.137+09:00"}
 ---
 
 Gnome Shell Extensions の 「Dash to Dock」を導入する

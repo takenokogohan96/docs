@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"gnome-mount-googledrive","permalink":"/gnome-mount-googledrive/","created":"2026-01-13T23:56:02.319+09:00","updated":"2026-01-18T00:40:01.902+09:00"}
+{"dg-publish":true,"dg-permalink":"gnome-mount-googledrive","permalink":"/gnome-mount-googledrive/","created":"2026-01-25T15:14:46.595+09:00","updated":"2026-01-18T00:40:01.901+09:00"}
 ---
 
 ※あらかじめ Google アカウントがログイン済でファイルの同期を有効化済であるものとする

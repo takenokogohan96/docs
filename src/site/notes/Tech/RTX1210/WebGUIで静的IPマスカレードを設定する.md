@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"rtx1210-static-ipmasquerade","permalink":"/rtx1210-static-ipmasquerade/","created":"2026-01-18T00:41:24.405+09:00","updated":"2026-01-18T00:52:28.135+09:00"}
+{"dg-publish":true,"dg-permalink":"rtx1210-static-ipmasquerade","permalink":"/rtx1210-static-ipmasquerade/","created":"2026-01-25T15:14:46.091+09:00","updated":"2026-01-18T00:52:28.135+09:00"}
 ---
 
 1. WebGUIにログインし詳細設定ページに遷移

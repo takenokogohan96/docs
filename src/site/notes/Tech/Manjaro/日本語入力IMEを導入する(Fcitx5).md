@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"manjaro-install-fcitx5","permalink":"/manjaro-install-fcitx5/","created":"2026-01-13T22:46:17.283+09:00","updated":"2026-01-14T01:19:40.630+09:00"}
+{"dg-publish":true,"dg-permalink":"manjaro-install-fcitx5","permalink":"/manjaro-install-fcitx5/","created":"2026-01-25T15:14:46.577+09:00","updated":"2026-01-14T01:19:40.630+09:00"}
 ---
 
 # Fictx5本体を導入する

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-permalink":"rtx1210-consoleport","permalink":"/rtx1210-consoleport/","created":"2026-01-18T00:10:11.433+09:00","updated":"2026-01-18T00:52:05.519+09:00"}
+{"dg-publish":true,"dg-permalink":"rtx1210-consoleport","permalink":"/rtx1210-consoleport/","created":"2026-01-25T15:14:45.452+09:00","updated":"2026-01-25T16:04:24.471+09:00"}
 ---
-
 
 # 用意するもの
 - Tera Term（[Github](https://github.com/TeraTermProject/teraterm/releases)）
