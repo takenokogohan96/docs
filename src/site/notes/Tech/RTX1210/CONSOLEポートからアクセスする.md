@@ -1,18 +1,18 @@
 ---
-{"dg-publish":true,"dg-permalink":"rtx1210-consoleport","permalink":"/rtx1210-consoleport/","created":"2026-01-25T15:14:45.452+09:00","updated":"2026-01-25T16:04:24.471+09:00"}
+{"dg-publish":true,"dg-permalink":"rtx1210-consoleport","permalink":"/rtx1210-consoleport/","created":"2026-01-26T14:14:54.317+09:00","updated":"2026-01-26T14:16:41.460+09:00"}
 ---
 
-# 用意するもの
+## 用意するもの
 - Tera Term（[Github](https://github.com/TeraTermProject/teraterm/releases)）
 - RJ-45コンソールケーブル（[YRC-RJ45C](https://network.yamaha.com/products/options/yrc-rj45c/index)）
 - USBシリアル変換ケーブル（FT232Rチップ搭載機を使用）
-# ケーブルをつなぎ込む
+## ケーブルをつなぎ込む
 コンソールケーブルと変換ケーブルで RJ-45⇔USB を作る
 ![console-usbcable.jpg](/img/user/img/Tech/console-usbcable.jpg)
 USBをPCに接続しドライバが当たることを確認する
 ![usbcerealport.png](/img/user/img/Tech/usbcerealport.png)
 最後にRJ-45をRTX1210のCONSOLEポートに接続する
-# Tera Term で接続する
+## Tera Term で接続する
 デバイスマネージャーで確認したCOMポート番号と同じインターフェースを選択して「OK」を押下する
 ![teraterm-comport.png](/img/user/img/Tech/teraterm-comport.png)
 

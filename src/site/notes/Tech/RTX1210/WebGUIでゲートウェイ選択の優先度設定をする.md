@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"rtx1210-gatewaypriority","permalink":"/rtx1210-gatewaypriority/","created":"2026-01-25T15:14:45.574+09:00","updated":"2026-01-18T00:52:08.546+09:00"}
+{"dg-publish":true,"dg-permalink":"rtx1210-gatewaypriority","permalink":"/rtx1210-gatewaypriority/","created":"2026-01-26T14:14:54.317+09:00","updated":"2026-01-17T07:52:08.000+09:00"}
 ---
 
 1. WebGUIにログインし詳細設定ページに遷移

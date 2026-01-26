@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"dg-permalink":"ubuntu-docker","permalink":"/ubuntu-docker/","created":"2026-01-25T15:14:44.419+09:00","updated":"2026-01-18T23:43:03.517+09:00"}
+{"dg-publish":true,"dg-permalink":"ubuntu-docker","permalink":"/ubuntu-docker/","created":"2026-01-26T14:14:54.317+09:00","updated":"2026-01-26T14:21:07.290+09:00"}
 ---
 
 基本dockerdocs公式の [Install Docker Engine on Ubuntu](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository) の通り
-
-# リポジトリ周りを設定する
+## リポジトリ周りを設定する
 ```
 # Add Docker's official GPG key:
 sudo apt update
@@ -24,15 +23,15 @@ EOF
 
 sudo apt update
 ```
-# Dockerをインストールする
+## Dockerをインストールする
 ```
 sudo apt install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
 ```
-# Dockerが起動していることを確認する
+## Dockerが起動していることを確認する
 ```
 sudo systemctl status docker
 ```
-# イメージとコンテナを表示する
+## イメージとコンテナを表示する
 ```
 # イメージ
 docker images
@@ -43,12 +42,12 @@ docker ps
 # コンテナ（停止中含む）
 docker ps -a
 ```
-# イメージを取得する
+## イメージを取得する
 ```
 # Docker Hub からDLする
 docker pull ｛リポジトリ名｝
 ```
-# # イメージとコンテナを削除する
+## イメージとコンテナを削除する
 ```
 # コンテナ
 docker rm {コンテナID}
@@ -56,7 +55,7 @@ docker rm {コンテナID}
 # イメージ
 docker rmi {イメージ名}
 ```
-# Docker Compose で コンテナを起動する
+## Docker Compose で コンテナを起動する
 1. あらかじめ `docker-compose.yml` を作成する
 2. コマンドを入力する
 ```

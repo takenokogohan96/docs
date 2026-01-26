@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-permalink":"gt7garage","permalink":"/gt7garage/","created":"2026-01-25T15:14:45.099+09:00","updated":"2026-01-13T23:41:28.435+09:00"}
+{"dg-publish":true,"dg-permalink":"gt7garage","permalink":"/gt7garage/","created":"2026-01-26T14:14:54.317+09:00","updated":"2026-01-26T14:16:49.497+09:00"}
 ---
 
-# Video
+## Video
 - 雑多な記録 ([youtube](https://www.youtube.com/playlist?list=PLjUl4UDUMER5asuj4uWv2lri42FBfn9K6))
 - デイリーB初優勝レース ([youtube](https://youtu.be/fdBLRI4CdoI))
-# Gallery
+## Gallery
 
 |   ![gt7_delta.jpeg](/img/user/img/Personal/gt7/gt7_delta.jpeg)<br>**Lancia<br>DELTA HF Integrale Evoluzione '91**   |              ![gt7_gto.jpeg](/img/user/img/Personal/gt7/gt7_gto.jpeg)**Mitsubishi<br>GTO Twin Turbo '91**              |
 | :------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: |

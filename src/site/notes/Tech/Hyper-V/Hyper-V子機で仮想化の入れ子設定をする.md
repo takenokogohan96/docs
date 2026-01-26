@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"hyperv-nested-virtualization","permalink":"/hyperv-nested-virtualization/","created":"2026-01-25T15:14:44.660+09:00","updated":"2026-01-18T02:26:52.223+09:00"}
+{"dg-publish":true,"dg-permalink":"hyperv-nested-virtualization","permalink":"/hyperv-nested-virtualization/","created":"2026-01-26T14:14:54.317+09:00","updated":"2026-01-17T09:26:52.000+09:00"}
 ---
 
 Hyper-V子機で Docker Desktop をインストール後起動した際に以下のエラーが表示される場合がある
