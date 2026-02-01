@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-permalink":"imas","permalink":"/imas/","created":"2026-01-26T14:14:54.317+09:00","updated":"2026-01-26T14:17:18.175+09:00"}
+{"dg-publish":true,"dg-permalink":"imas","permalink":"/imas/","created":"2026-01-25T06:21:02.000+09:00","updated":"2026-01-25T06:21:02.000+09:00"}
 ---
 
 ![mltd_card.jpg](/img/user/img/Personal/mltd_card.jpg)
-## MLTDイベント成績
+# MLTDイベント成績
 
 |        イベント名         |    獲得pt     |  順位   |
 | :------------------: | :---------: | :---: |
@@ -12,7 +12,7 @@
 |  **7D@ys Smile!!**   | 5,390,000pt | 恵美21位 |
 |   **超々∞MUGEND@I!**   | 8,019,895pt | 恵美3位  |
 
-## MLTD年次統計
+# MLTD年次統計
 締め日：毎年7月18日
 
 |      項目      |    1年目    |    2年目     |
@@ -26,6 +26,6 @@
 |  MM FC数 (曲)  | 232 / 348 | 276 / 388  |
 |     合計LP     |   3380    |    5142    |
 
-## 全国プロデューサー検定（アイマス検定）
+# 全国プロデューサー検定（アイマス検定）
 
 ![imas_credentials.jpg](/img/user/img/Personal/imas_credentials.jpg)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"rtx1210-firmwareupdate","permalink":"/rtx1210-firmwareupdate/","created":"2026-01-26T14:14:54.317+09:00","updated":"2026-01-26T14:20:17.776+09:00"}
+{"dg-publish":true,"dg-permalink":"rtx1210-firmwareupdate","permalink":"/rtx1210-firmwareupdate/","created":"2026-01-17T07:52:24.000+09:00","updated":"2026-02-01T14:18:35.957+09:00"}
 ---
 
 

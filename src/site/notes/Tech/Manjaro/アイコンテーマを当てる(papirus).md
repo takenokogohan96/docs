@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"manjaro-papirus","permalink":"/manjaro-papirus/","created":"2026-01-26T14:14:54.317+09:00","updated":"2026-01-26T14:20:09.799+09:00"}
+{"dg-publish":true,"dg-permalink":"manjaro-papirus","permalink":"/manjaro-papirus/","created":"2026-01-13T08:33:38.000+09:00","updated":"2026-02-01T14:17:09.761+09:00"}
 ---
 
 ## アイコン

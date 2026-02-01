@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"profile","permalink":"/profile/","created":"2026-01-26T14:14:54.314+09:00","updated":"2026-01-26T14:17:03.917+09:00"}
+{"dg-publish":true,"dg-permalink":"profile","permalink":"/profile/","created":"2026-01-17T09:06:08.000+09:00","updated":"2026-02-01T14:15:26.909+09:00"}
 ---
 
 読み方はそのまま「たけの」。機材が好き
