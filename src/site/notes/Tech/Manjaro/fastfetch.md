@@ -1,7 +1,0 @@
----
-{"dg-publish":true,"dg-permalink":"manjaro-fastfetch","permalink":"/manjaro-fastfetch/","created":"2026-01-13T08:33:24.000+09:00","updated":"2026-01-13T08:33:24.000+09:00"}
----
-
-かつては `Neofetch` が使用されていたが開発が終了している
-現在使用できる近しいものに `Fastfetch` がある
-![fastfetch.png](/img/user/img/Tech/fastfetch.png)
