@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"dg-permalink":"profile","permalink":"/profile/","created":"2026-01-17T09:06:08.000+09:00","updated":"2026-02-01T14:15:26.909+09:00"}
+{"dg-publish":true,"dg-permalink":"profile","permalink":"/profile/","created":"2026-01-17T09:06:08.000+09:00","updated":"2026-02-01T22:51:56.635+09:00"}
 ---
 
-読み方はそのまま「たけの」。機材が好き
-性格は [INFJ](https://www.google.com/search?q=INFJ) でパーソナルカラーは [4F7165](https://www.google.com/search?q=%234f7165)
+読み方はそのまま「たけの」。性格は [INFJ](https://www.google.com/search?q=INFJ) 
 ## 機材
 - [[Personal/機材/保有機材一覧\|保有機材一覧]]
 	- [[Personal/機材/自作A770機\|自作A770機]]
