@@ -6,11 +6,16 @@ body {
     --background-primary: #101115 !important;
     --background-secondary: #101115 !important;
 	
+	--text-normal: #d1d5db !important;
+	--text-muted: #888888 !important;
 	--text-accent: #99a8ff !important;
 	--text-accent-hover: #99a8ff !important;
-	--text-normal: #d1d5db !important;
-
 	--code-normal: #fde550 !important;
+}
+
+s, del, .cm-strikethrough {
+	color: var(--text-muted) !important;
+    text-decoration-thickness: 1.5px !important;
 }
 
 code, 
