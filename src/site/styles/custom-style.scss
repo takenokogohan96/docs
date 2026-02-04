@@ -3,6 +3,9 @@
 body {
     font-family: 'Noto Sans JP', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
 
+	letter-spacing: .025em !important;
+	--line-height-normal: 1.75em !important;
+	
     --background-primary: #101115 !important;
     --background-secondary: #101115 !important;
 	
@@ -16,6 +19,21 @@ body {
 s, del, .cm-strikethrough {
 	color: var(--text-muted) !important;
     text-decoration-thickness: 2px !important;
+}
+
+h1 {
+  font-size: 32px !important;
+}
+
+h2 {
+  padding: 0.5em 0em !important;
+  border-bottom: solid 2px #99a8ff !important;
+}
+
+h3 {
+  font-size: 18px !important;
+  padding: 0.1em 0.5em !important;
+  border-left: solid 5px #99a8ff60 !important;
 }
 
 code, 
