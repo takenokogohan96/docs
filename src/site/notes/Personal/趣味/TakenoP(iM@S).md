@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"imas","permalink":"/imas/","created":"2026-01-25T06:21:02.000+09:00","updated":"2026-01-25T06:21:02.000+09:00"}
+{"dg-publish":true,"dg-permalink":"imas","permalink":"/imas/","created":"2026-01-25T06:21:02.000+09:00","updated":"2026-02-04T22:09:31.948+09:00"}
 ---
 
 ![mltd_card.jpg](/img/user/img/Personal/mltd_card.jpg)
@@ -11,7 +11,8 @@
 | **REFRAIN REL@TION** | 1,000,000pt | 230位  |
 |  **7D@ys Smile!!**   | 5,390,000pt | 恵美21位 |
 |   **超々∞MUGEND@I!**   | 8,019,895pt | 恵美3位  |
-
+詳細レポート
+- [[Personal/趣味/imas/7周年イベントで恵美21位になった話【7D@ys Smile!!】\|7周年イベントで恵美21位になった話【7D@ys Smile!!】]]
 # MLTD年次統計
 締め日：毎年7月18日
 
