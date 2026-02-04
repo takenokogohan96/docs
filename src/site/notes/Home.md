@@ -11,10 +11,12 @@
 ## 更新履歴
 | File                                               | Last Modified |
 | -------------------------------------------------- | ------------- |
+| [[Personal/趣味/WT(~2023)\|WT(~2023)]]            | 2026/02/04    |
+| [[Personal/Takeno\|Takeno]]                     | 2026/02/04    |
+| [[Personal/機材/保有機材一覧\|保有機材一覧]]                  | 2026/02/03    |
 | [[Home\|Home]]                                  | 2026/02/02    |
 | [[Memo/Gnome/gvfs-google\|gvfs-google]]         | 2026/02/01    |
 | [[Memo/Windows/タスクバー\|タスクバー]]                   | 2026/02/01    |
-| [[Personal/Takeno\|Takeno]]                     | 2026/02/01    |
 | [[Memo/Android/シャッター音\|シャッター音]]                 | 2026/02/01    |
 | [[Memo/Gnome/アクティビティ画面\|アクティビティ画面]]             | 2026/02/01    |
 | [[Memo/Gnome/トップバー\|トップバー]]                     | 2026/02/01    |
@@ -27,7 +29,6 @@
 | [[Memo/Ubuntu/aptコマンド\|aptコマンド]]                | 2026/02/01    |
 | [[Memo/RTX1210/CONSOLEポート\|CONSOLEポート]]         | 2026/02/01    |
 | [[Memo/Manjaro/papirus(theme)\|papirus(theme)]] | 2026/02/01    |
-| [[Personal/機材/保有機材一覧\|保有機材一覧]]                  | 2026/02/01    |
 | [[Personal/機材/周辺機器遍歴\|周辺機器遍歴]]                  | 2026/02/01    |
 | [[Personal/機材/自宅NW環境\|自宅NW環境]]                  | 2026/02/01    |
 | [[Personal/機材/自作Xeonサーバ機\|自作Xeonサーバ機]]          | 2026/02/01    |

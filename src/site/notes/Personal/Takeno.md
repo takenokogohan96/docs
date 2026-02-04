@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"profile","permalink":"/profile/","created":"2026-01-17T09:06:08.000+09:00","updated":"2026-02-01T22:51:56.635+09:00"}
+{"dg-publish":true,"dg-permalink":"profile","permalink":"/profile/","created":"2026-01-17T09:06:08.000+09:00","updated":"2026-02-04T19:58:59.437+09:00"}
 ---
 
 読み方はそのまま「たけの」。性格は [INFJ](https://www.google.com/search?q=INFJ) 
@@ -22,3 +22,6 @@
 - [Youtube](https://www.youtube.com/channel/UCpMu4e-LOxfTBLCHquU5_Zg) - 作ったもの
 - [Steam](https://steamcommunity.com/id/takenokogohan96) - 遊んだもの 
 - [PSNPROFILE](https://psnprofiles.com/takenokogohan96) - 遊んだもの
+
+## その他
+- [[Personal/趣味/WT(~2023)\|WT(~2023)]]
